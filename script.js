@@ -64,5 +64,4 @@ function addItemTodo(value) {
     item.appendChild(deleteButton);
     list.insertBefore(item, list.childNodes[0]);
     percentageChanger();
-
 }
